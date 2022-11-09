@@ -1,6 +1,11 @@
 # url
 
-The `url` package simply parses `url.Values` and returns it as structured and organize map.
+[![Go Report Card](https://goreportcard.com/badge/github.com/thetechpanda/url)](https://goreportcard.com/report/github.com/thetechpanda/url)
+[![Go Reference](https://pkg.go.dev/badge/github.com/thetechpanda/url.svg)](https://pkg.go.dev/github.com/thetechpanda/url)
+[![Release](https://img.shields.io/github/release/thetechpanda/url.svg?style=flat-square)](https://github.com/thetechpanda/url/tags/latest)
+
+
+The `url` package simply parses `url.Values` and returns it as structured and organized map.
 
 `http.Request.Query()` and `http.Request.Form()`, return the keys without any aggregation, resulting in the raw key value passed through the PostBody or QueryString.
 
