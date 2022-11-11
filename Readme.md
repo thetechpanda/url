@@ -68,7 +68,7 @@ func dummyHandler(w http.ResponseWriter, r *http.Request) {
 
 ## Documentation
 
-Please refer to the comments in `main.go` or go to [https://pkg.go.dev/github.com/thetechpanda/url](package documentation)
+Please refer to the comments in `main.go` or go to [package documentation](https://pkg.go.dev/github.com/thetechpanda/url)
 
 ### ParseValues()
 
